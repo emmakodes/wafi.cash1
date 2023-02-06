@@ -2,4 +2,4 @@
 
 Wafi cash coding challenge.
 
-You can run the code in test.py to test the code
+You can run the test.py file to test the code
